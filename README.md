@@ -1,7 +1,7 @@
 # Joseph plays with Text to Speech.
 The first effort is a python script that makes a call to the Google TTS API, taking in a text string and outputting an mp3 of the string spoken in synthetic speech. The only parameter available in this interface is language, which is surprisingly fun to play with. Unsurprisingly, the speech sounds better when the text is of the language of the speech synthesis. But it can be fun to try to make the French or Czech speech synthesizers speak English, for example.
 
-Supported Languages
+Supported Languages:
 
 * 'af' : 'Afrikaans'
 * 'sq' : 'Albanian'
