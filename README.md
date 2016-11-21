@@ -3,7 +3,7 @@ The first effort is a python script that makes a call to the Google TTS API, tak
 
 Supported Languages
 
-'af' : 'Afrikaans'
+* 'af' : 'Afrikaans'
 'sq' : 'Albanian'
 'ar' : 'Arabic'
 'hy' : 'Armenian'
